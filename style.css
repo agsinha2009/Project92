@@ -1,0 +1,42 @@
+body{
+    background-image: url(backG.jpg);
+    text-align: center;
+}
+div{
+    background: yellow;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        margin-left: 500px;
+        margin-right: 500px;
+}
+.login_div2{
+    margin-top: 50px;
+}
+h1{
+    font-size: 19px;
+}
+button{
+    margin-bottom: 300px;
+    margin-right: 500px;
+    position: relative;
+}
+#h1{
+    font-size: 70px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+body{
+    background-color: #AA4465;
+}
+#player1_score{
+   margin-left: 100px;
+}
